@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Инфо
 permalink: /about/
 ---
 
-Some information about you!
+Телеграм-канал ["Про парсинг"](https://t.me/proparsing)
 
-### More Information
+### Контакты
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[lukin@usota.ru](mailto:lukin@usota.ru)
